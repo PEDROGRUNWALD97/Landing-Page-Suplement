@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?9uhdxq');
+  src:  url('fonts/icomoon.eot?9uhdxq#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?9uhdxq') format('truetype'),
+    url('fonts/icomoon.woff?9uhdxq') format('woff'),
+    url('fonts/icomoon.svg?9uhdxq#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-instagram_icon-1:before {
+  content: "\e900";
+}
+.icon-exercise_fitness_gym_home_quarantine0_icon:before {
+  content: "\e901";
+}
+.icon-diet_fitness_fruits_nutrition_suplement_icon:before {
+  content: "\e902";
+}
+.icon-healthy_exercise_strength_workout_muscular_icon:before {
+  content: "\e903";
+}
+.icon-close:before {
+  content: "\e904";
+  color: #000;
+}
+.icon-facebook1:before {
+  content: "\e905";
+  color: #000;
+}
+.icon-instagram:before {
+  content: "\e906";
+  color: #000;
+}
+.icon-mail:before {
+  content: "\e907";
+  color: #000;
+}
+.icon-map-pin:before {
+  content: "\e908";
+  color: #000;
+}
+.icon-phone:before {
+  content: "\e909";
+  color: #000;
+}
+.icon-whatsapp:before {
+  content: "\e90a";
+  color: #000;
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
